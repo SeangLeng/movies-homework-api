@@ -49,5 +49,5 @@ export async function getServerSideProps() {
     props: {
       movies:  result
     }
-  }
+  } 
 }
